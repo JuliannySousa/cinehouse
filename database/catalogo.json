@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "Grays Anatomy",
+        "duracao": 2,
+        "atores": [
+            "Meridity",
+            "Cristina",
+            "Alex",
+            "Mark",
+            "Lex"
+        ],
+        "anoDeLancamento": 2007,
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "titulo": "House",
+        "duracao": 1.5,
+        "atores": [
+            "House",
+            "Uilson"
+        ],
+        "anoDeLancamento": 2000,
+        "emCartaz": false
+    }
+]
